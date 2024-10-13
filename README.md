@@ -3,9 +3,6 @@
   <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=4000&pause=1000&color=D7CE1E&center=true&vCenter=true&width=435&lines=Computer+Engineering+Student;Always+Learning+New+Things;Committed+to+My+Projects;Competitive+Programmer" alt="Typing SVG" /></a>
 </p>
 
-## <picture><img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/about_me.gif?raw=true" width = 50px></picture> About me
-<picture> <img align="right" src="https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Right_Side.gif?raw=true" width = 250px></picture>
-
 <br><br>
 
 - :school: I am a `Junior` at [ETSSIT](https://etsiit.ugr.es/) at [Granada University](https://www.ugr.es/).
