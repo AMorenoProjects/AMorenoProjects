@@ -1,16 +1,17 @@
-## Hi there 👋
+<h1 align="center">Hi , I'm AMoreno <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
+<p align="center">
+  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=4000&pause=1000&color=D7CE1E&center=true&vCenter=true&width=435&lines=Computer+Engineering+Student;Always+Learning+New+Things;Committed+to+My+Projects;Competitive+Programmer" alt="Typing SVG" /></a>
+</p>
 
-<!--
-**AMorenoProjects/AMorenoProjects** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<br>
 
-Here are some ideas to get you started:
+## <picture><img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/about_me.gif?raw=true" width = 50px></picture> About me
+<picture> <img align="right" src="https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Right_Side.gif?raw=true" width = 250px></picture>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<br><br>
+
+- :school: I am a `Junior` at [ETSSIT](https://etsiit.ugr.es/) at [Granada University](https://www.ugr.es/).
+- :technologist: I love using Software as a solution for every `Problem`.
+- :student: I am currently in my first year of `Computer engineering.`.
+- :nerd_face: Always `learning new things`.
+<br>
