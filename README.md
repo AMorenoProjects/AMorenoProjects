@@ -7,6 +7,6 @@
 
 - :school: I am a `Junior` at [ETSSIT](https://etsiit.ugr.es/) at [Granada University](https://www.ugr.es/).
 - :technologist: I love using Software as a solution for every `Problem`.
-- :student: I am currently in my first year of `Computer engineering.`.
+- :student: I am currently in my second year of `Computer engineering.`.
 - :nerd_face: Always `learning new things`.
 <br>
