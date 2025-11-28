@@ -10,3 +10,7 @@
 - :student: I am currently in my second year of `Computer engineering.`.
 - :nerd_face: Always `learning new things`.
 <br>
+
+Apps under development: 
+- https://study-war.vercel.app/
+- https://life-rpg-xi.vercel.app/
