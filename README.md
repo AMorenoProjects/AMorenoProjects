@@ -11,6 +11,3 @@
 - :nerd_face: Always `learning new things`.
 <br>
 
-Apps under development: 
-- https://study-war.vercel.app/
-- https://life-rpg-xi.vercel.app/
