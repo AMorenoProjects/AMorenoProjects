@@ -22,5 +22,5 @@ Soy un estudiante apasionado por construir soluciones escalables. Actualmente es
 ![Estadísticas](https://github-readme-stats.vercel.app/api?username=TU_USUARIO_AQUI&show_icons=true&theme=minimal)
 
 ### 📫 Contacto
-* 💼 [LinkedIn]([https://linkedin.com/in/tu-perfil](https://www.linkedin.com/in/amorenoprojects/)) 
-* 📧 [Email](alej.mor06@gmail.com)
+* 💼 [LinkedIn]((https://www.linkedin.com/in/amorenoprojects/)
+* 📧 [Email] ➡️ alej.mor06@gmail.com
