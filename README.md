@@ -17,10 +17,6 @@ Soy un estudiante apasionado por construir soluciones escalables. Actualmente es
 
 ### 🚀 Mis Proyectos
 
-
-### 📊 Mis Estadísticas en GitHub
-![Estadísticas](https://github-readme-stats.vercel.app/api?username=AMorenoProjects&show_icons=true&theme=minimal)
-
 ### 📫 Contacto
 * 💼 [LinkedIn]((https://www.linkedin.com/in/amorenoprojects/)
 * 📧 [Email] ➡️ alej.mor06@gmail.com
