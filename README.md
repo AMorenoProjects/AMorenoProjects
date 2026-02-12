@@ -16,6 +16,7 @@ Bienvenido a mi portafolio digital. Aquí documento mi aprendizaje y mis proyect
 Soy un estudiante apasionado por construir soluciones escalables. Actualmente estoy enfocado en **Arquitectura de Software** e **Inteligencia Artificial**.
 
 ### 🚀 Mis Proyectos
+🔎 stack-audit - CLI para auditar entornos de desarrollo
 
 ### 📫 Contacto
 * 💼 [LinkedIn](https://www.linkedin.com/in/amorenoprojects/)
