@@ -19,7 +19,7 @@ Soy un estudiante apasionado por construir soluciones escalables. Actualmente es
 
 
 ### 📊 Mis Estadísticas en GitHub
-![Estadísticas](https://github-readme-stats.vercel.app/api?username=TU_USUARIO_AQUI&show_icons=true&theme=minimal)
+![Estadísticas](https://github-readme-stats.vercel.app/api?username=AMorenoProjects&show_icons=true&theme=minimal)
 
 ### 📫 Contacto
 * 💼 [LinkedIn]((https://www.linkedin.com/in/amorenoprojects/)
