@@ -21,5 +21,5 @@ Soy un estudiante apasionado por construir soluciones escalables. Actualmente es
 
 ### 📫 Contacto
 * 💼 [LinkedIn](https://www.linkedin.com/in/amorenoprojects/)
-* 𝕏 [X](https://x.com/AMorenoProjects)
+* 𝕏 [X/Twitter](https://x.com/AMorenoProjects)
 * 📧 [Email] ➡️ alej.mor06@gmail.com
