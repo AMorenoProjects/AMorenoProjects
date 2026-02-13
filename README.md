@@ -16,7 +16,7 @@ Bienvenido a mi portafolio digital. Aquí documento mi aprendizaje y mis proyect
 Soy un estudiante apasionado por construir soluciones escalables. Actualmente estoy enfocado en **Arquitectura de Software** e **Inteligencia Artificial**.
 
 ### 🚀 Mis Proyectos
-🧰 [starterkit-saas](https://github.com/AMorenoProjects/starterkit-saas) - Starter Kit SaaS escalable con Next.js 16, Supabase, Clerk y Drizzle.
+🧰 [starterkit-saas](https://github.com/AMorenoProjects/starterkit-saas) - Starter Kit SaaS escalable con Next.js 16, Supabase, Clerk y Drizzle. <br>
 🔎 [stack-audit](https://github.com/AMorenoProjects/stack-audit) - CLI para auditar entornos de desarrollo
 
 ### 📫 Contacto
