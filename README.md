@@ -16,7 +16,6 @@ Bienvenido a mi portafolio digital. Aquí documento mi aprendizaje y mis proyect
 Soy un estudiante apasionado por construir soluciones escalables. Actualmente estoy enfocado en **Arquitectura de Software** e **Inteligencia Artificial**.
 
 ### 🚀 Mis Proyectos
-📋 [OpenFeedback-Engine](https://github.com/AMorenoProjects/OpenFeedback-Engine) - Infraestructura de feedback "Headless" y sin login para el ecosistema Next.js <br>
 🛡️ [DocsGuard](https://github.com/AMorenoProjects/DocsGuard) - CLI en Rust que valida que tus docs coincidan con tu código <br>
 🧰 [starterkit-saas](https://github.com/AMorenoProjects/starterkit-saas) - Starter Kit SaaS escalable con Next.js 16, Supabase, Clerk y Drizzle. <br>
 🔎 [stack-audit](https://github.com/AMorenoProjects/stack-audit) - CLI para auditar entornos de desarrollo
